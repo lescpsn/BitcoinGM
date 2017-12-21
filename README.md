@@ -4,7 +4,7 @@
 
 http://bitcoingm.gmssl.org
 
-## What is Bitcoi GM?
+## What is Bitcoin GM?
 
 Bitcoin GM is a hard fork of Bitcoin blockchain to enable users to mine bitcoins and send transactions with Chinese cryptographic algorithms and standards including SM2/SM3/SM4. Users can use off-the-shelf USB tokens as hardware wallet to protect the coins. The Bitcoin GM is also confirmed with national blockchain standards and specifciations.
 
